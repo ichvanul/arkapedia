@@ -16,7 +16,7 @@
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Usage](#usage-for-development)
+- [Usage for Development](#usage-for-development)
 - [Create Environment Variable](#create-environment-variable)
 - [Related Project](#related-project-backend)
 - [Contributors](#contributors)
@@ -106,4 +106,4 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 
 ## Contact
 
-If you want to contact me you can reach me at <ichvanulyp@gmail.com>.
+If you want to contact me you can reach me at <ichvanulyp@gmail.com>
