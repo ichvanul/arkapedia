@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Vue%20Js-v2.6.11-yellow">
   <img src="https://img.shields.io/badge/Axios-v0.19.2-blue">
+  <img src="https://img.shields.io/badge/Vuelidate-v0.7.5-important">
 </p>
 
 ## Table of Contents
@@ -54,24 +55,9 @@ VUE_APP_URL_API=YOUR_HOST_URL
 VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 ```
 
-## Screenshots
-
-<div align="center">
-    <img width="430" src="./images/login.jpg">   
-    <img width="430" src="./images/register.jpg">
-</div>
-<div align="center">
-    <img width="430" src="./images/landing-loginmodal.gif">   
-    <img width="430" src="./images/tokosidia-product-detail.gif">
-</div>
-<div align="center">
-    <img width="430" src="./images/tokosidia-seller-detail.png">   
-    <img width="430" src="./images/tokosidia-user-detail.gif">
-</div>
-
 ## Related Project (Backend)
 
-* [`Backend-Tokosidia`](https://github.com/HiRahmat-Dev/tokosidia-API)
+* [`Backend-Arkapedia`](https://github.com/ichvanul/arkapedia.server.git)
 
 ## Contributors
 
@@ -79,33 +65,39 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/HiRahmat-Dev/">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/55150659?s=460&u=c7171bb4128787c303efdce0d62bc86289f1211b&v=4" alt="Rahmat Hidayatullah"><br/>
-          <b>Rahmat Hidayatullah</b>
+        <a href="https://github.com/ichvanul">
+          <img width="150" src="https://avatars1.githubusercontent.com/u/62008205?s=460&u=d23a93172c5e4c40b9b033e273a3359b2742c568&v=4" alt="Ichvanul Yulizar Putra"><br/>
+          <b>Ichvanul Yulizar Putra</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/fblazt">
-          <img width="150" src="https://avatars3.githubusercontent.com/u/48191467?s=400&u=c06616d146930100dfb5eb5c4ab10fd00d01ac41&v=4" alt="Firman"><br/>
-          <b>Firman</b>
+        <a href="https://github.com/algol007">
+          <img width="150" src="https://avatars3.githubusercontent.com/u/13137672?s=460&u=b5226ccdf4cd9c9a8505215b77b2a15d134d92b5&v=4" alt="Ady Rahmansyah"><br/>
+          <b>Ady Rahmansyah</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/azmprllynsa">
-          <img width="150" src="https://avatars1.githubusercontent.com/u/60286175?s=400&v=4" alt="azmprllynsa"><br/>
-          <b>azmprllynsa</b>
+        <a href="https://github.com/akbarism">
+          <img width="150" src="https://avatars3.githubusercontent.com/u/59020048?s=460&u=3b5166c489574eedef29b414cd18b457bcc6fad3&v=4" alt="Akbar Ismail"><br/>
+          <b>Akbar Ismail</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/m-joseph27">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/60948526?s=400&u=c258f85ec35ccfda6ce3911dae79d45e335088b3&v=4" alt="Muhammad Yusuf"><br/>
-          <b>Muhammad Yusuf</b>
+        <a href="https://github.com/bagakibadi">
+          <img width="150" src="https://avatars0.githubusercontent.com/u/31173796?s=460&v=4" alt="Bagus"><br/>
+          <b>Bagus</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/shoelfikar">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/55390061?s=400&u=cf1b3f5b68b4f984a45cc215c7b98150ab01276b&v=4" alt="Sulfikar"><br/>
-          <b>Sulfikar</b>
+        <a href="https://github.com/haras94">
+          <img width="150" src="https://avatars2.githubusercontent.com/u/62143618?s=460&u=2e76db88db6de5ba0dddfa79c274c8e04f5e8f4a&v=4" alt="Harun Arrasyid Suparman"><br/>
+          <b>Harun Arrasyid Suparman</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/slucter">
+          <img width="150" src="https://avatars2.githubusercontent.com/u/61655908?s=460&u=1e1c0b55b30cf502f264038f39609fd6dc8636b8&v=4" alt="Muhamad Irhashdianto"><br/>
+          <b>Muhamad Irhashdianto</b>
         </a>
       </td>
     </tr>
